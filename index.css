@@ -1,9 +1,9 @@
 
-
 nav {
     position: fixed;
     width: 100%;
     overflow: hidden;
+    z-index: 99;
 }
 
 nav ul {
@@ -30,6 +30,11 @@ nav li a:hover{
 p,h1,a {
     color: #FFFFFF;
     opacity: 80%;
+}
+h1{
+    position: absolute;
+    top: 60px;
+    left: 70px;
 }
 
 body {
