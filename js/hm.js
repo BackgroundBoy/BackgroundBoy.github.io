@@ -1,4 +1,4 @@
-console.log('hello');
+console.log(jQuery().jquery);
 document.addEventListener('DOMContentLoaded', function(){
     console.log('hello2');
     var mainPicture = document.querySelector("h1").offsetTop;

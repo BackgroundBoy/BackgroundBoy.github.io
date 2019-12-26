@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    position: relative;
+    width: 100vw;
+    height: 665px;
+    margin: 10px;
+    background-color: blue;
+}
+
+.container img {
+    display: none;
+}
